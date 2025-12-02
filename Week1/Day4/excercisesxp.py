@@ -32,7 +32,7 @@ basket = ["Banana", "Apples", "Oranges", "Blueberries"]
 basket.remove("Banana")
 basket.remove("Blueberries")
 basket.append("Kiwi")
-basket.append("Apples")
+basket.insert(0, "Apples")
 
 apple_count = basket.count("Apples")
 print(f"No of Apples: {apple_count}")
