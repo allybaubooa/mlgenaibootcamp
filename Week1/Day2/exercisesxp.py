@@ -26,7 +26,7 @@ print(f"I have a {computer_brand} computer")
 name = "Ally"
 age = 27
 shoe_size = 45
-info = f"I am {name}. I am {age} years old. I am learning Python right now.\nFun fact about me is my shoe size is {shoe_size}."
+info = f"I am {name}. I am {age} years old. I am a Software Engineer.\nFun fact about me is my shoe size is {shoe_size}."
 
 print(info)
 
